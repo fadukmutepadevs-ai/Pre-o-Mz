@@ -1,0 +1,6 @@
+{
+  "name": "Preço MZ",
+  "description": "Plataforma de consulta de preços aproximados de produtos e serviços em Moçambique.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
